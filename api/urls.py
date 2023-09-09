@@ -3,6 +3,6 @@ from api.views import get_info
 
 urlpatterns = [
     
-    path('api/', get_info),
+    path('api', get_info),
     
 ]
