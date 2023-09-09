@@ -25,7 +25,7 @@ SECRET_KEY = '-bmng)ft7pg556_xltt4h-&t2ob))$wc=jfpal!8epua2=(+$@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['info-f8gg.onrender.com']
 
 
 # Application definition
