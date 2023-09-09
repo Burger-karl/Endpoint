@@ -15,8 +15,8 @@ def get_info(request):
         'current_day': current_day,
         'utc_time': timezone.now().strftime('%Y-%m-%dT%H:%M:%SZ'),
         'track': 'backend',
-        'github_file_url': 'https://github.com/Burger-karl/hngproj/blob/main/projapi/views.py',
-        'github_repo_url': 'https://github.com/Burger-karl/hngproj/tree/main',
+        'github_file_url': 'https://github.com/Burger-karl/Endpoint/blob/main/api/views.py',
+        'github_repo_url': 'https://github.com/Burger-karl/Endpoint',
         'status_code': 200
         }
 
